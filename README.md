@@ -1,2 +1,2 @@
 # camunda-meetup
-Contains code used during Camunda meetups
+Contains code used during Camunda Community Meetup Chapter Utrecht meetups
